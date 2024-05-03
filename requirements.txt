@@ -1,0 +1,4 @@
+telebot
+langchain_openai
+langchain_community
+langchain
